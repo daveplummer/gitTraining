@@ -22,3 +22,6 @@ Make sure they begin and end with a new line
 
 This is Dave's update.
 ...and then Ryan's.
+
+This is a new line 1.
+This is a new line 2.
